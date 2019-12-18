@@ -1,0 +1,1 @@
+Using pyzbar and simple codes to decode the barcode in real time.
